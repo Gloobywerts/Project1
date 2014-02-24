@@ -38,7 +38,7 @@ class recipe {
 				<input type="button" value="Add" onclick="addIngredientToTable(\''.$this->tablecount.'\');" />
 				</p>
 <input type="text" name="ingredientRow1" id="ingredientRow1" size="50" value="Enter new ingredient" onFocus="if (value == \'Enter new ingredient\') {value=\'\'}" onBlur="if (value== \'\') {value=\'Enter new ingredient\'}"/></td>
-    			<td><br /><input type="text" name="quantityRow1" id="quantityRow1" size="50" value="Enter new quantity" onFocus="if (value == \'Enter new quantity\') {value=\'\'}" onBlur="if (value== \'\') {value=\'Enter new quantity\'}" oninput="if (value.length == 1) {addIngredientToTable(\''.$this->tablecount.'\')} if (value.length == 0 ) {removeRowFromTable(\''.$this->tablecount.'\'); removeRowFromTable(\''.$this->tablecount.'\')}"/></td>
+    			<td><br /><input type="text" name="quantityRow1" id="quantityRow1" size="50" value="Enter new quantity" onFocus="if (value == \'Enter new quantity\') {value=\'\'}" onBlur="if (value== \'\') {value=\'Enter new quantity\'}" flag = "0" oninput=" if (flag == 0) {addIngredientToTable(\''.$this->tablecount.'\') flag = \'1\'}" /></td>
 				</form>';
 		$this->tablecount ++;
 	}
