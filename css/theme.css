@@ -1,0 +1,26 @@
+html, body
+{
+  height: 100%;
+}
+
+h1{
+	text-align:center;
+}
+
+.centerdoc{
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 100%;
+}
+
+#maintable{
+
+	table-layout: fixed;
+	text-align:center;
+	width: 100%;
+	height: 500px;
+}
+
+#maintable, td{
+
+}

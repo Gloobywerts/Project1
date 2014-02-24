@@ -1,0 +1,248 @@
+[29-Jan-2014 09:49:59 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:50:51 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:50:53 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:50:54 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:51:14 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:51:15 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:51:16 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:51:24 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 09:51:26 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes/index.php on line 3
+[29-Jan-2014 10:07:08 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:07:08 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:07:08 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:25 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:25 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:25 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:25 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:25 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:25 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:46 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:46 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:46 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:46 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:46 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:46 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:49 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:49 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:49 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:49 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:49 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:49 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:50 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:50 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:50 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:50 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 10:08:50 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::display_list(), called in /home/cometapp/public_html/recipes/recipes.php on line 15 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 12
+[29-Jan-2014 10:08:50 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[29-Jan-2014 11:56:09 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 11:56:11 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 11:56:50 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 11:56:53 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 11:56:54 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 11:58:33 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 11:58:36 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:00:10 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:00:31 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:00:33 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:01:04 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:01:05 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:02:08 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 35
+[29-Jan-2014 12:12:07 Pacific/Auckland] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 34
+[29-Jan-2014 12:17:55 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 46
+[29-Jan-2014 12:17:58 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 46
+[29-Jan-2014 12:18:33 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 46
+[29-Jan-2014 12:19:31 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[29-Jan-2014 12:20:55 Pacific/Auckland] PHP Fatal error:  Call to a member function mysqli_fetch_array() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[29-Jan-2014 12:20:58 Pacific/Auckland] PHP Fatal error:  Call to a member function mysqli_fetch_array() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[29-Jan-2014 12:21:02 Pacific/Auckland] PHP Fatal error:  Call to a member function mysqli_fetch_array() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[29-Jan-2014 12:21:05 Pacific/Auckland] PHP Fatal error:  Call to a member function mysqli_fetch_array() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[29-Jan-2014 12:21:12 Pacific/Auckland] PHP Fatal error:  Call to a member function mysqli_fetch_array() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[30-Jan-2014 10:03:57 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[30-Jan-2014 10:04:42 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[30-Jan-2014 10:06:05 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[30-Jan-2014 10:06:08 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[30-Jan-2014 10:06:32 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 37
+[30-Jan-2014 10:09:08 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 36
+[30-Jan-2014 10:09:12 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 36
+[30-Jan-2014 10:09:51 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 36
+[30-Jan-2014 10:22:43 Pacific/Auckland] PHP Notice:  Undefined variable: row in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:22:43 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:22:43 Pacific/Auckland] PHP Notice:  Undefined variable: row in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:22:43 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:23:33 Pacific/Auckland] PHP Notice:  Undefined variable: row in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:23:33 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:23:33 Pacific/Auckland] PHP Notice:  Undefined variable: row in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:23:33 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:23:37 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:23:37 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 38
+[30-Jan-2014 10:24:00 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 6
+[30-Jan-2014 10:24:00 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 6
+[30-Jan-2014 10:24:00 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/recipe.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/index.php on line 6
+[30-Jan-2014 10:24:00 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/viewrecipe.php on line 8
+[30-Jan-2014 10:25:44 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 36
+[30-Jan-2014 10:27:33 Pacific/Auckland] PHP Notice:  Undefined index: task in /home/cometapp/public_html/recipes/index.php on line 9
+[30-Jan-2014 11:18:46 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 4
+[30-Jan-2014 11:18:46 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 4
+[30-Jan-2014 11:18:46 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/subsection.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/index.php on line 4
+[30-Jan-2014 11:19:10 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 4
+[30-Jan-2014 11:19:10 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 4
+[30-Jan-2014 11:19:10 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/subsection.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/index.php on line 4
+[30-Jan-2014 12:44:22 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 73
+[30-Jan-2014 12:44:24 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 73
+[30-Jan-2014 12:44:25 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 73
+[30-Jan-2014 13:09:34 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 3
+[30-Jan-2014 13:09:34 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 3
+[30-Jan-2014 13:09:34 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/recipe.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/index.php on line 3
+[30-Jan-2014 13:09:34 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/viewrecipe.php on line 8
+[30-Jan-2014 13:09:38 Pacific/Auckland] PHP Fatal error:  Call to undefined function displaySections() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 18
+[30-Jan-2014 13:10:06 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 51
+[30-Jan-2014 13:29:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 94
+[30-Jan-2014 13:29:17 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 94
+[30-Jan-2014 13:33:10 Pacific/Auckland] PHP Warning:  include_once(viewrecipe.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 10
+[30-Jan-2014 13:33:10 Pacific/Auckland] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'viewrecipe.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/index.php on line 10
+[30-Jan-2014 13:35:21 Pacific/Auckland] PHP Fatal error:  Call to undefined method recipe::displayFirstSections() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 18
+[30-Jan-2014 13:35:23 Pacific/Auckland] PHP Fatal error:  Call to undefined method recipe::displayFirstSections() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 18
+[30-Jan-2014 14:06:08 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_WHILE, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 48
+[30-Jan-2014 14:06:10 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_WHILE, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 48
+[30-Jan-2014 14:19:38 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 65
+[04-Feb-2014 11:43:57 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 108
+[04-Feb-2014 11:44:00 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 108
+[04-Feb-2014 11:51:08 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 108
+[05-Feb-2014 15:05:33 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 4
+[05-Feb-2014 15:07:25 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 4
+[05-Feb-2014 15:07:28 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 4
+[05-Feb-2014 15:07:31 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 4
+[05-Feb-2014 15:08:18 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:08:25 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:13:47 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosgetparam() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 116
+[05-Feb-2014 15:14:53 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::addNewRecipe(), called in /home/cometapp/public_html/recipes/editList.php on line 6 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 115
+[05-Feb-2014 15:14:53 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 116
+[05-Feb-2014 15:14:55 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::addNewRecipe(), called in /home/cometapp/public_html/recipes/editList.php on line 6 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 115
+[05-Feb-2014 15:14:55 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 116
+[05-Feb-2014 15:17:20 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:17:20 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:17:57 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:17:57 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:17:58 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:17:58 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:18:40 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:21:10 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 15:22:53 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/recipes.php on line 10
+[05-Feb-2014 15:23:33 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/recipes.php on line 10
+[05-Feb-2014 15:24:57 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 15:24:59 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 15:25:23 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 15:26:18 Pacific/Auckland] PHP Warning:  include_once(index.php?task=editList) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/updatelist.php on line 4
+[05-Feb-2014 15:26:18 Pacific/Auckland] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'index.php?task=editList' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/updatelist.php on line 4
+[05-Feb-2014 15:26:53 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 15:27:05 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 15:28:01 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 15:29:01 Pacific/Auckland] PHP Warning:  include_once(index.php?task=editList) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/updatelist.php on line 4
+[05-Feb-2014 15:29:01 Pacific/Auckland] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'index.php?task=editList' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/updatelist.php on line 4
+[05-Feb-2014 15:29:52 Pacific/Auckland] PHP Warning:  include_once(index.php?task=editList) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/updatelist.php on line 4
+[05-Feb-2014 15:29:52 Pacific/Auckland] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'index.php?task=editList' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/updatelist.php on line 4
+[05-Feb-2014 16:00:02 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 16:00:05 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 16:03:24 Pacific/Auckland] PHP Notice:  Undefined property: recipe::$addNewRecipe in /home/cometapp/public_html/recipes/updatelist.php on line 11
+[05-Feb-2014 16:05:47 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:05:47 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:06:46 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/viewrecipe.php on line 8
+[05-Feb-2014 16:06:48 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/viewrecipe.php on line 8
+[05-Feb-2014 16:09:14 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:09:14 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:09:56 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:09:56 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:09:57 Pacific/Auckland] PHP Notice:  Use of undefined constant document - assumed 'document' in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:09:57 Pacific/Auckland] PHP Fatal error:  Call to undefined function getElementById() in /home/cometapp/public_html/recipes/editList.php on line 6
+[05-Feb-2014 16:12:11 Pacific/Auckland] PHP Notice:  Undefined index: title in /home/cometapp/public_html/recipes/updatelist.php on line 9
+[05-Feb-2014 16:43:58 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 16:44:37 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 16:46:41 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/updatelist.php on line 6
+[05-Feb-2014 16:47:58 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/updatelist.php on line 9
+[05-Feb-2014 16:48:33 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 16:49:54 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 16:50:07 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 16:51:32 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 16:51:36 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 16:51:39 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 16:52:03 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class recipe in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 2
+[05-Feb-2014 17:19:45 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:19:45 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:19:45 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:19:45 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:07 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:07 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:07 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:07 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:11 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:11 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:11 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:11 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:12 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:12 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:12 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:20:12 Pacific/Auckland] PHP Notice:  Undefined variable: section in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 16
+[05-Feb-2014 17:21:56 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/recipes.php on line 15
+[05-Feb-2014 17:22:24 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 13
+[05-Feb-2014 19:32:23 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/delete.php on line 8
+[05-Feb-2014 19:32:23 Pacific/Auckland] PHP Notice:  Undefined variable: id in /home/cometapp/public_html/recipes/delete.php on line 10
+[05-Feb-2014 19:32:23 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 134
+[05-Feb-2014 19:34:33 Pacific/Auckland] PHP Notice:  Undefined variable: id in /home/cometapp/public_html/recipes/delete.php on line 12
+[05-Feb-2014 19:34:33 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 135
+[05-Feb-2014 19:34:38 Pacific/Auckland] PHP Notice:  Undefined index: title in /home/cometapp/public_html/recipes/delete.php on line 8
+[05-Feb-2014 19:34:38 Pacific/Auckland] PHP Notice:  Undefined variable: id in /home/cometapp/public_html/recipes/delete.php on line 12
+[05-Feb-2014 19:34:38 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 135
+[05-Feb-2014 19:34:42 Pacific/Auckland] PHP Notice:  Undefined index: title in /home/cometapp/public_html/recipes/delete.php on line 8
+[05-Feb-2014 19:34:42 Pacific/Auckland] PHP Notice:  Undefined variable: id in /home/cometapp/public_html/recipes/delete.php on line 12
+[05-Feb-2014 19:34:42 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 135
+[05-Feb-2014 19:37:48 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/delete.php on line 10
+[05-Feb-2014 19:37:50 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/delete.php on line 10
+[05-Feb-2014 19:37:51 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/delete.php on line 10
+[05-Feb-2014 19:37:52 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/recipes/delete.php on line 10
+[05-Feb-2014 19:40:30 Pacific/Auckland] PHP Notice:  Undefined index: title in /home/cometapp/public_html/recipes/delete.php on line 8
+[05-Feb-2014 19:40:59 Pacific/Auckland] PHP Notice:  Undefined index: title in /home/cometapp/public_html/recipes/delete.php on line 8
+[05-Feb-2014 21:10:29 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/editrecipe.php on line 8
+[05-Feb-2014 21:11:56 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/editrecipe.php on line 8
+[10-Feb-2014 13:08:11 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 189
+[10-Feb-2014 13:08:13 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 189
+[10-Feb-2014 13:08:16 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 189
+[10-Feb-2014 13:08:17 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 189
+[10-Feb-2014 13:08:32 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 189
+[11-Feb-2014 11:50:32 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 121
+[11-Feb-2014 11:50:36 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 121
+[11-Feb-2014 11:50:45 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 121
+[11-Feb-2014 11:52:49 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 121
+[11-Feb-2014 11:53:04 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 121
+[11-Feb-2014 11:53:43 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 121
+[12-Feb-2014 13:21:23 Pacific/Auckland] PHP Fatal error:  Cannot redeclare recipe::newInstruction() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 40
+[12-Feb-2014 13:21:26 Pacific/Auckland] PHP Fatal error:  Cannot redeclare recipe::newInstruction() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 40
+[12-Feb-2014 13:21:28 Pacific/Auckland] PHP Fatal error:  Cannot redeclare recipe::newInstruction() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 40
+[12-Feb-2014 13:21:29 Pacific/Auckland] PHP Fatal error:  Cannot redeclare recipe::newInstruction() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 40
+[12-Feb-2014 13:21:33 Pacific/Auckland] PHP Fatal error:  Cannot redeclare recipe::newInstruction() in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 40
+[12-Feb-2014 13:21:53 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 3
+[12-Feb-2014 13:21:53 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/index.php on line 3
+[12-Feb-2014 13:21:53 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/recipe.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/index.php on line 3
+[12-Feb-2014 13:21:53 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/recipes.php on line 10
+[12-Feb-2014 14:06:18 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:06:18 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:06:18 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/recipe.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:06:18 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/editrecipe.php on line 112
+[12-Feb-2014 14:08:50 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:08:50 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:08:50 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/recipe.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:08:50 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/editrecipe.php on line 112
+[12-Feb-2014 14:18:58 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:18:58 Pacific/Auckland] PHP Warning:  include(classes/recipe.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:18:58 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/recipe.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes/editrecipe.php on line 109
+[12-Feb-2014 14:18:58 Pacific/Auckland] PHP Fatal error:  Class 'recipe' not found in /home/cometapp/public_html/recipes/editrecipe.php on line 112
+[12-Feb-2014 14:23:56 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::newInstruction(), called in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 246 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 22
+[12-Feb-2014 14:24:05 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::newInstruction(), called in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 246 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 22
+[12-Feb-2014 14:28:41 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::newInstruction(), called in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 246 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 22
+[12-Feb-2014 14:30:17 Pacific/Auckland] PHP Warning:  Missing argument 1 for recipe::newInstruction(), called in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 246 and defined in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 22
+[12-Feb-2014 15:15:47 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 286
+[12-Feb-2014 15:15:51 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 286
+[12-Feb-2014 15:15:53 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 286
+[12-Feb-2014 15:16:27 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 291
+[12-Feb-2014 15:16:29 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 291
+[12-Feb-2014 15:16:30 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 291
+[17-Feb-2014 12:23:50 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/cometapp/public_html/recipes/classes/recipe.class.php on line 280

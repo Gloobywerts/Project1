@@ -1,0 +1,330 @@
+[27-Jan-2014 08:35:45 Pacific/Auckland] PHP Fatal error:  Call to undefined function display() in /home/cometapp/public_html/recipes.php on line 8
+[27-Jan-2014 08:35:55 Pacific/Auckland] PHP Fatal error:  Call to undefined function display() in /home/cometapp/public_html/recipes.php on line 8
+[27-Jan-2014 08:36:14 Pacific/Auckland] PHP Fatal error:  Call to undefined function display() in /home/cometapp/public_html/recipes.php on line 8
+[27-Jan-2014 08:36:15 Pacific/Auckland] PHP Fatal error:  Call to undefined function display() in /home/cometapp/public_html/recipes.php on line 8
+[27-Jan-2014 09:00:49 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:01:29 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:01:53 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:01:56 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:01:57 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:04:55 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:04:57 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:04:58 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:05:26 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:05:28 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:09:46 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:09:49 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:09:50 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:09:51 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:10:12 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:10:13 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:10:14 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:12:23 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes.php on line 9
+[27-Jan-2014 09:12:24 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes.php on line 9
+[27-Jan-2014 09:12:25 Pacific/Auckland] PHP Fatal error:  Call to undefined function mosGetParam() in /home/cometapp/public_html/recipes.php on line 9
+[27-Jan-2014 09:22:13 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:22:15 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:22:16 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:23:59 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:24:01 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:24:02 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:24:03 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:24:04 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:39:25 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:39:43 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:39:44 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:43:48 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 09:47:00 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:01:38 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp_user'@'localhost' (using password: YES) in /home/cometapp/public_html/recipes.php on line 6
+[27-Jan-2014 10:01:38 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:01:41 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp_user'@'localhost' (using password: YES) in /home/cometapp/public_html/recipes.php on line 6
+[27-Jan-2014 10:01:41 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:02:13 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp_user'@'localhost' (using password: YES) in /home/cometapp/public_html/recipes.php on line 6
+[27-Jan-2014 10:02:13 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:02:14 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp_user'@'localhost' (using password: YES) in /home/cometapp/public_html/recipes.php on line 6
+[27-Jan-2014 10:02:14 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:03:13 Pacific/Auckland] PHP Notice:  Undefined variable: Lq3 in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:03:13 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp_user'@'localhost' (using password: YES) in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:03:13 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:03:13 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:03:50 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:03:50 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:04:28 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:04:31 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:04:56 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:04:58 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:05:00 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:05:11 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:05:11 Pacific/Auckland] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:06:01 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:06:01 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli::setQuery() in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 10:10:24 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:10:24 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:10:24 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:10:24 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:12:01 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'cometapp_user'@'localhost' to database 'cometapp_live' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:13:50 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'cometapp_test'@'localhost' to database 'cometapp_live' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:16:37 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:17:05 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:17:07 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'cometapp_user'@'localhost' to database 'cometapp_live' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:18:28 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'http://cometapptesting.co.nz/' (25) in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:18:48 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/1129): Host 'moro.cpanelhosting.co.nz' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:19:32 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/1129): Host 'moro.cpanelhosting.co.nz' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:19:36 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/1129): Host 'moro.cpanelhosting.co.nz' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:22:06 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'cometapp_user'@'localhost' to database 'cometapp_live' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:22:10 Pacific/Auckland] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'cometapp_user'@'localhost' to database 'cometapp_live' in /home/cometapp/public_html/recipes.php on line 10
+[27-Jan-2014 10:23:31 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:23:31 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:23:31 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:23:31 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:24:14 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:24:14 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 13
+[27-Jan-2014 10:24:14 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:24:14 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:24:14 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:26:24 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:26:24 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:26:24 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:29:00 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:00 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:00 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:29:02 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:02 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:02 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:29:43 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:43 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:43 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:29:45 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:45 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:45 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:29:46 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:46 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:29:46 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:31:10 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:31:10 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:31:10 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:31:15 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cometapp'@'localhost' (using password: NO) in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:31:15 Pacific/Auckland] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:31:15 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:36:00 Pacific/Auckland] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cometapp/public_html/recipes.php on line 18
+[27-Jan-2014 10:36:00 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:37:28 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:40:29 Pacific/Auckland] PHP Notice:  Undefined variable: data in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:40:29 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cometapp/public_html/recipes.php on line 20
+[27-Jan-2014 10:47:57 Pacific/Auckland] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/cometapp/public_html/classes/recipe.class.php on line 26
+[27-Jan-2014 10:48:35 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/recipe.class.php on line 25
+[27-Jan-2014 10:48:35 Pacific/Auckland] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/cometapp/public_html/classes/recipe.class.php on line 26
+[27-Jan-2014 10:51:08 Pacific/Auckland] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 25
+[27-Jan-2014 11:02:21 Pacific/Auckland] PHP Notice:  Undefined variable: title in /home/cometapp/public_html/classes/recipe.class.php on line 27
+[27-Jan-2014 11:02:21 Pacific/Auckland] PHP Fatal error:  Cannot access empty property in /home/cometapp/public_html/classes/recipe.class.php on line 9
+[27-Jan-2014 11:08:12 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 29
+[27-Jan-2014 11:08:53 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 30
+[27-Jan-2014 11:08:54 Pacific/Auckland] PHP Catchable fatal error:  Object of class recipe could not be converted to string in /home/cometapp/public_html/classes/recipe.class.php on line 30
+[27-Jan-2014 11:10:35 Pacific/Auckland] PHP Fatal error:  Cannot access empty property in /home/cometapp/public_html/classes/recipe.class.php on line 30
+[27-Jan-2014 11:14:27 Pacific/Auckland] PHP Fatal error:  Cannot access empty property in /home/cometapp/public_html/classes/recipe.class.php on line 31
+[27-Jan-2014 11:21:44 Pacific/Auckland] PHP Notice:  Undefined variable: recipe in /home/cometapp/public_html/recipes.php on line 9
+[27-Jan-2014 11:21:44 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /home/cometapp/public_html/recipes.php on line 9
+[27-Jan-2014 11:45:29 Pacific/Auckland] PHP Fatal error:  Class 'recipe_subsection' not found in /home/cometapp/public_html/recipes.php on line 15
+[27-Jan-2014 11:48:51 Pacific/Auckland] PHP Fatal error:  Call to undefined method recipe::set_recipe_subsection() in /home/cometapp/public_html/recipes.php on line 17
+[27-Jan-2014 11:58:13 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes.php on line 14
+[27-Jan-2014 11:58:13 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 11:58:13 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:13 Pacific/Auckland] PHP Fatal error:  Call to a member function set_recipe_subsection() on a non-object in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:24 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes.php on line 14
+[27-Jan-2014 11:58:24 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 11:58:24 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:24 Pacific/Auckland] PHP Fatal error:  Call to a member function set_recipe_subsection() on a non-object in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:25 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_id in /home/cometapp/public_html/recipes.php on line 14
+[27-Jan-2014 11:58:25 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/recipe.class.php on line 24
+[27-Jan-2014 11:58:25 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:25 Pacific/Auckland] PHP Fatal error:  Call to a member function set_recipe_subsection() on a non-object in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:51 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:51 Pacific/Auckland] PHP Fatal error:  Call to a member function set_recipe_subsection() on a non-object in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:52 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:52 Pacific/Auckland] PHP Fatal error:  Call to a member function set_recipe_subsection() on a non-object in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:54 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 11:58:54 Pacific/Auckland] PHP Fatal error:  Call to a member function set_recipe_subsection() on a non-object in /home/cometapp/public_html/recipes.php on line 16
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Warning:  Missing argument 2 for recipe_subsection::set_recipe_subsection(), called in /home/cometapp/public_html/recipes.php on line 18 and defined in /home/cometapp/public_html/classes/subsection.class.php on line 20
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 24
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Warning:  Missing argument 2 for recipe_subsection::set_recipe_subsection(), called in /home/cometapp/public_html/recipes.php on line 18 and defined in /home/cometapp/public_html/classes/subsection.class.php on line 20
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 24
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Warning:  Missing argument 2 for recipe_subsection::set_recipe_subsection(), called in /home/cometapp/public_html/recipes.php on line 18 and defined in /home/cometapp/public_html/classes/subsection.class.php on line 20
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 24
+[27-Jan-2014 12:07:31 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:07:48 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:07:48 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:07:48 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:17:07 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[27-Jan-2014 12:17:07 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[27-Jan-2014 12:17:07 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[27-Jan-2014 12:20:17 Pacific/Auckland] PHP Notice:  Use of undefined constant BOOLEAN - assumed 'BOOLEAN' in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:20:17 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[27-Jan-2014 12:20:17 Pacific/Auckland] PHP Notice:  Use of undefined constant BOOLEAN - assumed 'BOOLEAN' in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:20:17 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[27-Jan-2014 12:20:17 Pacific/Auckland] PHP Notice:  Use of undefined constant BOOLEAN - assumed 'BOOLEAN' in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[27-Jan-2014 12:20:17 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:21:38 Pacific/Auckland] PHP Warning:  Missing argument 2 for recipe_subsection::set_recipe_subsection(), called in /home/cometapp/public_html/recipes.php on line 17 and defined in /home/cometapp/public_html/classes/subsection.class.php on line 20
+[28-Jan-2014 09:21:39 Pacific/Auckland] PHP Notice:  Undefined variable: parent_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:21:39 Pacific/Auckland] PHP Warning:  Missing argument 2 for recipe_subsection::set_recipe_subsection(), called in /home/cometapp/public_html/recipes.php on line 17 and defined in /home/cometapp/public_html/classes/subsection.class.php on line 20
+[28-Jan-2014 09:21:39 Pacific/Auckland] PHP Notice:  Undefined variable: parent_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:21:39 Pacific/Auckland] PHP Warning:  Missing argument 2 for recipe_subsection::set_recipe_subsection(), called in /home/cometapp/public_html/recipes.php on line 17 and defined in /home/cometapp/public_html/classes/subsection.class.php on line 20
+[28-Jan-2014 09:21:39 Pacific/Auckland] PHP Notice:  Undefined variable: parent_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:37 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:37:39 Pacific/Auckland] PHP Notice:  Undefined variable: rsubsection_id in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 09:42:14 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes.php on line 9
+[28-Jan-2014 09:42:14 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes.php on line 9
+[28-Jan-2014 09:42:14 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/subsection.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes.php on line 9
+[28-Jan-2014 09:42:14 Pacific/Auckland] PHP Fatal error:  Class 'recipe_subsection' not found in /home/cometapp/public_html/recipes.php on line 16
+[28-Jan-2014 09:53:48 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:48 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:48 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:50 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:50 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:50 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:51 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:51 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:53:51 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:55:16 Pacific/Auckland] PHP Fatal error:  Call to undefined function mysqli_result() in /home/cometapp/public_html/classes/subsection.class.php on line 24
+[28-Jan-2014 09:56:00 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:00 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:00 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:00 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:00 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:00 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:20 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:20 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:56:20 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:57:04 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:57:04 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 09:57:04 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:14:24 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:14:24 Pacific/Auckland] PHP Notice:  Undefined variable: dbConnection in /home/cometapp/public_html/classes/subsection.class.php on line 33
+[28-Jan-2014 10:14:24 Pacific/Auckland] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/cometapp/public_html/classes/subsection.class.php on line 33
+[28-Jan-2014 10:15:03 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:15:03 Pacific/Auckland] PHP Warning:  mysqli_stmt::bind_param() [<a href='mysqli-stmt.bind-param'>mysqli-stmt.bind-param</a>]: Number of elements in type definition string doesn't match number of bind variables in /home/cometapp/public_html/classes/subsection.class.php on line 34
+[28-Jan-2014 10:15:03 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/cometapp/public_html/classes/subsection.class.php on line 38
+[28-Jan-2014 10:15:23 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:15:23 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/cometapp/public_html/classes/subsection.class.php on line 38
+[28-Jan-2014 10:15:44 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:15:44 Pacific/Auckland] PHP Warning:  mysqli_stmt::bind_param() [<a href='mysqli-stmt.bind-param'>mysqli-stmt.bind-param</a>]: Number of elements in type definition string doesn't match number of bind variables in /home/cometapp/public_html/classes/subsection.class.php on line 34
+[28-Jan-2014 10:15:44 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/cometapp/public_html/classes/subsection.class.php on line 38
+[28-Jan-2014 10:16:11 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:16:11 Pacific/Auckland] PHP Warning:  mysqli_stmt::bind_param() [<a href='mysqli-stmt.bind-param'>mysqli-stmt.bind-param</a>]: Number of elements in type definition string doesn't match number of bind variables in /home/cometapp/public_html/classes/subsection.class.php on line 34
+[28-Jan-2014 10:16:11 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/cometapp/public_html/classes/subsection.class.php on line 38
+[28-Jan-2014 10:16:13 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:16:13 Pacific/Auckland] PHP Warning:  mysqli_stmt::bind_param() [<a href='mysqli-stmt.bind-param'>mysqli-stmt.bind-param</a>]: Number of elements in type definition string doesn't match number of bind variables in /home/cometapp/public_html/classes/subsection.class.php on line 34
+[28-Jan-2014 10:16:13 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/cometapp/public_html/classes/subsection.class.php on line 38
+[28-Jan-2014 10:16:32 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:16:32 Pacific/Auckland] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/cometapp/public_html/classes/subsection.class.php on line 34
+[28-Jan-2014 10:17:15 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:17:15 Pacific/Auckland] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/cometapp/public_html/classes/subsection.class.php on line 38
+[28-Jan-2014 10:20:17 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cometapp/public_html/classes/subsection.class.php on line 23
+[28-Jan-2014 10:20:35 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/cometapp/public_html/classes/subsection.class.php on line 36
+[28-Jan-2014 10:20:36 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/cometapp/public_html/classes/subsection.class.php on line 36
+[28-Jan-2014 10:20:38 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/cometapp/public_html/classes/subsection.class.php on line 36
+[28-Jan-2014 10:20:46 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:20:46 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:20:46 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:21:49 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:21:49 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:21:49 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:21:49 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:21:49 Pacific/Auckland] PHP Notice:  Use of undefined constant mysqli_result - assumed 'mysqli_result' in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:21:49 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:18 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:18 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:18 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:18 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:18 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:18 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:20 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:20 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:20 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:20 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:20 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:20 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:35 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:35 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:35 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:35 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:35 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:35 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:39 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:39 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:39 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:39 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:39 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:39 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:40 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:40 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:40 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:40 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:40 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:40 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:56 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:58 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:58 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:58 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:22:58 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:22:58 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 27
+[28-Jan-2014 10:23:30 Pacific/Auckland] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[28-Jan-2014 10:24:08 Pacific/Auckland] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[28-Jan-2014 10:24:10 Pacific/Auckland] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[28-Jan-2014 10:24:21 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:24:21 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:24:21 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:24:21 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:24:21 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:24:21 Pacific/Auckland] PHP Notice:  Undefined variable: mysqli_result in /home/cometapp/public_html/classes/subsection.class.php on line 26
+[28-Jan-2014 10:24:49 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes.php on line 9
+[28-Jan-2014 10:24:49 Pacific/Auckland] PHP Warning:  include(classes/subsection.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cometapp/public_html/recipes.php on line 9
+[28-Jan-2014 10:24:49 Pacific/Auckland] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'classes/subsection.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cometapp/public_html/recipes.php on line 9
+[28-Jan-2014 10:24:49 Pacific/Auckland] PHP Fatal error:  Class 'recipe_subsection' not found in /home/cometapp/public_html/recipes.php on line 19
+[28-Jan-2014 10:24:51 Pacific/Auckland] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:07:51 Pacific/Auckland] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:24:06 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:24:06 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:24:06 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:16 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:16 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:16 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:17 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:17 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:17 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:27:28 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:27:28 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:27:28 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:27:28 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:27:28 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:27:28 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:30:27 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:30:27 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:30:27 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/cometapp/public_html/recipes.php on line 19
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Notice:  Undefined variable: recipe_subsection_id in /home/cometapp/public_html/recipes.php on line 21
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:30:59 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:31:14 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:31:14 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:31:14 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:31:14 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:31:14 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[29-Jan-2014 09:31:14 Pacific/Auckland] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cometapp/public_html/classes/subsection.class.php on line 25
+[11-Feb-2014 11:58:17 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_STRING in /home/cometapp/public_html/radio.php on line 1
